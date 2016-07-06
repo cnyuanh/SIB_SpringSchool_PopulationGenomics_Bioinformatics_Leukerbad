@@ -23,7 +23,7 @@ Available on this GitHub page:
      * [From raw sequencing data to transcript expression levels.](./practicals/rnaseq/TP1.md)
      * [Gene-level clustering and differential expression analysis.](./practicals/rnaseq/TP2.md)
 
-Avialable on the [Wurm lab GitHub page](https://github.com/wurmlab/genomicscourse/blob/master/2016-SIB/practicals/index.md):
+Available on the [Wurm lab GitHub page](https://github.com/wurmlab/genomicscourse/blob/master/2016-SIB/practicals/index.md):
 
 * Reads to genome to gene predictions:  Short read cleaning, genome assembly, quality control, gene prediction, quality control (Monday).
 * Population sequencing to genotypes to population genetics statistics:
@@ -37,12 +37,11 @@ Avialable on the [Wurm lab GitHub page](https://github.com/wurmlab/genomicscours
 These practicals were put together, revised and proofread by:
  * Rodrigo Pracana
  * Julien Roux [www](http://www.unil.ch/dee/home/menuinst/people/post-docs--associates/dr-julien-roux.html) [@_julien_roux](http://twitter.com/_julien_roux)
-
  * Robert Waterhouse [www](http://www.rmwaterhouse.org/) [@rmwaterhouse](http://twitter.com/rmwaterhouse)
  * Stefan Schiffels [@stschiff
 ](http://twitter.com/stschiff)
  * Yannick Wurm - [www](http://wurmlab.github.io) [@yannick__](http://twitter.com/yannick__)
- * with content derived from:
+ * With content derived from:
      * [Oksana Riba-Grognuz](https://www.linkedin.com/in/oksana80)' contributions for the 2012 edition of this course,
      * [Bruno Vieira](http://wurmlab.github.io/team/bmpvieira)'s contributions to [QMUL's Bioinformatics MSc](http://www.sbcs.qmul.ac.uk/postgraduate/masters/index.html) version of this course.
 
